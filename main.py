@@ -1,5 +1,5 @@
 
-!pip install networkx
+# !pip install networkx
 
 import numpy as np
 import pandas as pd
