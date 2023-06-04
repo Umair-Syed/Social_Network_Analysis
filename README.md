@@ -1,1 +1,1 @@
-# Social_Network_Analysis_Assignmet_1
+# Social_Network_Analysis_Assignmets
